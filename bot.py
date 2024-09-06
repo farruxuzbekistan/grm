@@ -6,7 +6,7 @@ from difflib import get_close_matches
 import re
 
 # Directly define your API token here
-API_TOKEN = "7292739885:AAFrPVHXJl9G2XmkY8mIifUL9ZiwSueYqgY"
+API_TOKEN = "7292739885:AAFDFtMehMLGa3hYVGiWkdzBXxZJwkVBlaI"
 
 # Initialize bot and dispatcher
 bot = Bot(token=API_TOKEN)
